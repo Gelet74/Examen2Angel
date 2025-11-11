@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Angel Exam</string>
+    <string name="pantalla_inicio">Home Screen</string>
+    <string name="pantalla1">First Screen</string>
+    <string name="pantalla2">Second Screen</string>
+    <string name="siguiente">Next</string>
+    <string name="atras">Back</string>
+    <string name="inicio">Start</string>
+    <string name="numero_1">Number 1</string>
+    <string name="numero_2">Number 2</string>
+</resources>
